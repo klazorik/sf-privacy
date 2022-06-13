@@ -4,4 +4,5 @@ adblocksosal.ru
 stacksocial.com
 cs1404.wpc.epsiloncdn.net
 static.ads.brave.com
+img.strpst.com
 (\.|^)wpc\.epsiloncdn\.net$
