@@ -7,4 +7,6 @@ static.ads.brave.com
 img.strpst.com
 tpc.googlesyndication.com
 s-05.channelexco.com
+mcd.ex.co
+cdn.playbuzz.com
 (\.|^)wpc\.epsiloncdn\.net$
