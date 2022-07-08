@@ -6,4 +6,5 @@ cs1404.wpc.epsiloncdn.net
 static.ads.brave.com
 img.strpst.com
 tpc.googlesyndication.com
+s-05.channelexco.com
 (\.|^)wpc\.epsiloncdn\.net$
