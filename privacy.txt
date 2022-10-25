@@ -20,4 +20,6 @@ subsubfolder.com
 www.ixxx.com
 pugsgivehugs.com
 aka.ms-ads.co
+beap.gemini.yahoo.com
+s.yimg.com
 (\.|^)wpc\.epsiloncdn\.net$
