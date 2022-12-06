@@ -22,4 +22,5 @@ pugsgivehugs.com
 aka.ms-ads.co
 beap.gemini.yahoo.com
 s.yimg.com
+network-internet.com
 (\.|^)wpc\.epsiloncdn\.net$
