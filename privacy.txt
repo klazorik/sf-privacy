@@ -24,4 +24,5 @@ beap.gemini.yahoo.com
 s.yimg.com
 network-internet.com
 apple.z232tadh8hrc.top
+aka.ms-ads.co
 (\.|^)wpc\.epsiloncdn\.net$
