@@ -29,4 +29,5 @@ ideal-secured.com
 bravetense.com
 am14.mediaite.com
 am13.mediaite.com
+live.primis.tech
 (\.|^)wpc\.epsiloncdn\.net$
