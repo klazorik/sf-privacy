@@ -28,4 +28,5 @@ aka.ms-ads.co
 ideal-secured.com
 bravetense.com
 am14.mediaite.com
+am13.mediaite.com
 (\.|^)wpc\.epsiloncdn\.net$
