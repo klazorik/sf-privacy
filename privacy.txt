@@ -30,4 +30,5 @@ bravetense.com
 am14.mediaite.com
 am13.mediaite.com
 live.primis.tech
+dyncdn.me
 (\.|^)wpc\.epsiloncdn\.net$
