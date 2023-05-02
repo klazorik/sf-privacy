@@ -37,4 +37,5 @@ csno.app
 1o1camshow.com
 cfrsoft.com
 armoredpcsafeguard.store
+l.vadar.co
 (\.|^)wpc\.epsiloncdn\.net$
