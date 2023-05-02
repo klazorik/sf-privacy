@@ -31,4 +31,8 @@ am14.mediaite.com
 am13.mediaite.com
 live.primis.tech
 dyncdn.me
+land.pixelsee.app
+update-mac.com
+csno.app
+1o1camshow.com
 (\.|^)wpc\.epsiloncdn\.net$
