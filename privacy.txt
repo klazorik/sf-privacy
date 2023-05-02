@@ -35,4 +35,5 @@ land.pixelsee.app
 update-mac.com
 csno.app
 1o1camshow.com
+cfrsoft.com
 (\.|^)wpc\.epsiloncdn\.net$
