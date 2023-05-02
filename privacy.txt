@@ -36,4 +36,5 @@ update-mac.com
 csno.app
 1o1camshow.com
 cfrsoft.com
+armoredpcsafeguard.store
 (\.|^)wpc\.epsiloncdn\.net$
