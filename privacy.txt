@@ -38,4 +38,5 @@ csno.app
 cfrsoft.com
 armoredpcsafeguard.store
 l.vadar.co
+sfgate.enclosuresites.com
 (\.|^)wpc\.epsiloncdn\.net$
