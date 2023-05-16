@@ -39,4 +39,6 @@ cfrsoft.com
 armoredpcsafeguard.store
 l.vadar.co
 sfgate.enclosuresites.com
+cnn.com
+www.cnn.com
 (\.|^)wpc\.epsiloncdn\.net$
