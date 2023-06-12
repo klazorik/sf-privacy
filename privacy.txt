@@ -41,4 +41,6 @@ l.vadar.co
 sfgate.enclosuresites.com
 cnn.com
 www.cnn.com
+reddit.com
+m.reddit.com
 (\.|^)wpc\.epsiloncdn\.net$
