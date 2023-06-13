@@ -43,4 +43,12 @@ cnn.com
 www.cnn.com
 reddit.com
 m.reddit.com
+www.reddit.com
+us.slowww.xyz
+omelettecrippledemployee.com
+www.bovada.lv
+thumpdrownthreat.com
+muzzlematrix.com
+threatotherwise.com
+scootermonkmortify.com
 (\.|^)wpc\.epsiloncdn\.net$
