@@ -39,11 +39,11 @@ cfrsoft.com
 armoredpcsafeguard.store
 l.vadar.co
 sfgate.enclosuresites.com
-cnn.com
-www.cnn.com
-reddit.com
-m.reddit.com
-www.reddit.com
+#cnn.com
+#www.cnn.com
+#reddit.com
+#m.reddit.com
+#www.reddit.com
 us.slowww.xyz
 omelettecrippledemployee.com
 www.bovada.lv
